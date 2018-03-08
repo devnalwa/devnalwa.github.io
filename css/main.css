@@ -1555,6 +1555,12 @@ header .header-logo a {
   letter-spacing: .3rem;
   margin: 0 0 .9rem 0;
 }
+.home-content-tablecell h29 {
+  font-family: "montserrat-bold", serif;
+  font-size: 9rem;
+  line-height: 1.133;
+  color: #FF0077;
+}
 .home-content-tablecell h1 {
   font-family: "montserrat-bold", serif;
   font-size: 9rem;
