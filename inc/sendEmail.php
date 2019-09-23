@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = "nalwadev@grinnell.edu"   ;
+$siteOwnersEmail = "dknalwa23@gmail.com"   ;
 
 
 if($_POST) {
